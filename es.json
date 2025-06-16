@@ -7,5 +7,7 @@
   "app.password": "Contraseña",
   "app.pwcharacters": "La contraseña elegida debe contener al menos 8 caracteres",
   "app.signup": "Regístrese",
+  "app.test": "Prueba",
+  "app.test2": "prueba2",
   "app.username": "Nombre de usuario"
 }
