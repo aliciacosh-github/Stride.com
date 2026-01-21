@@ -12,12 +12,9 @@
   "app.password": "Contraseña",
   "app.password-copy": "Contraseña",
   "app.pwcharacters": "La contraseña elegida debe contener al menos 8 caracteres",
-  "app.pwcharacters-copy": "La contraseña elegida debe contener al menos 8 caracteres",
   "app.pwcharacters-copy-copy": "La contraseña elegida debe contener al menos 8 caracteres",
   "app.signup": "Regístrese",
   "app.signup-copy": "Inscribirse",
-  "app.test": "Prueba",
-  "app.test2": "prueba2",
   "app.username": "Nombre de usuario",
   "app.username-copy": "Nombre de usuario"
 }

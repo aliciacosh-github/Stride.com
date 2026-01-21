@@ -12,12 +12,9 @@
   "app.password": "סיסמא",
   "app.password-copy": "סיסמה",
   "app.pwcharacters": "הסיסמה שבחרת חייבת להכיל לפחות 8 תווים",
-  "app.pwcharacters-copy": "הסיסמה שבחרת חייבת להכיל לפחות 8 תווים",
   "app.pwcharacters-copy-copy": "הסיסמה שבחרת חייבת להכיל לפחות 8 תווים",
   "app.signup": "להירשם",
   "app.signup-copy": "להירשם",
-  "app.test": "מבחן",
-  "app.test2": "מבחן2",
   "app.username": "שם משתמש",
   "app.username-copy": "שם משתמש"
 }

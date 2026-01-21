@@ -12,12 +12,9 @@
   "app.password": "Password",
   "app.password-copy": "Password",
   "app.pwcharacters": "Your chosen password must contain at least 8 characters",
-  "app.pwcharacters-copy": "Your chosen password must contain at least 8 characters",
   "app.pwcharacters-copy-copy": "Your chosen password must contain at least 8 characters",
   "app.signup": "Sign Up",
   "app.signup-copy": "Sign Up",
-  "app.test": "test2",
-  "app.test2": "test2",
   "app.username": "Username",
   "app.username-copy": "Username"
 }
