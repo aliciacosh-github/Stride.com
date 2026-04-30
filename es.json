@@ -1,11 +1,16 @@
 {
+  "app.agreement": "He leído y acepto los Términos de Servicio y el Aviso de Privacidad de Stride",
   "app.email": "Correo electrónico",
   "app.email.address": "your@email.com",
+  "app.login": "¿Ya tienes una cuenta?",
+  "app.offers": "No deseo recibir ofertas exclusivas, promociones, recordatorios y más relacionados con Nekocafé.",
   "app.password": "Contraseña",
   "app.pwcharacter": "La contraseña elegida debe contener al menos 8 caracteres",
   "app.pwcharacters": "¿Ya tienes una cuenta?",
   "app.pwcharactersbhsgsgs": "He leído y acepto los Términos de Servicio y el Aviso de Privacidad de Stride",
   "app.pwcharactersgsrg": "No deseo recibir ofertas exclusivas, promociones, recordatorios y más relacionados con Nekocafé.",
   "app.pwcharactersgswr": "Regístrate",
+  "app.signup": "Regístrate",
+  "app.test": "ensayo2",
   "app.username": "Nombre de usuario"
 }
