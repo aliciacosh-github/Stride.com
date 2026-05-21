@@ -1,16 +1,11 @@
 {
-  "app.agreement": "קראתי והסכמתי לתנאי השירות והודעת הפרטיות של Stride",
-  "app.email": "כתובת דואר אלקטרוני",
-  "app.email.address": "your@email.com",
-  "app.login": "יש לך כבר חשבון? Log in",
-  "app.offers": "אני לא רוצה לקבל הצעות בלעדיות, קידומים, תזכורות ועוד הקשורים ל- Nekocafé.",
-  "app.password": "סיסמה",
-  "app.pwcharacter": "הסיסמה שבחרת חייבת להכיל לפחות 8 תווים",
-  "app.pwcharacters": "כבר יש לך חשבון? Log in",
-  "app.pwcharactersbhsgsgs": "קראתי והסכמתי לתנאי השירות והודעת הפרטיות של Stride",
-  "app.pwcharactersgsrg": "אני לא רוצה לקבל הצעות בלעדיות, קידומים, תזכורות ועוד הקשורים ל- Nekocafé.",
-  "app.pwcharactersgswr": "להירשם",
-  "app.signup": "להירשם",
-  "app.test": "מבחן2",
-  "app.username": "שם משתמש"
+  "app.email-copy": "כתובת דואר אלקטרוני",
+  "app.email.address-copy": "your@email.com",
+  "app.password-copy": "סיסמה",
+  "app.pwcharacter-copy": "הסיסמה שבחרת חייבת להכיל לפחות 8 תווים",
+  "app.pwcharacters-copy": "כבר יש לך חשבון? Log in",
+  "app.pwcharactersbhsgsgs-copy": "קראתי והסכמתי לתנאי השירות והודעת הפרטיות של Stride",
+  "app.pwcharactersgsrg-copy": "אני לא רוצה לקבל הצעות בלעדיות, קידומים, תזכורות ועוד הקשורים ל- Nekocafé.",
+  "app.pwcharactersgswr-copy": "להירשם",
+  "app.username-copy": "שם משתמש"
 }
