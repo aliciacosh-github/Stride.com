@@ -1,12 +1,21 @@
 {
   "app.agreement": "I have read and agreed to Stride's Terms of Service and Privacy Notice",
   "app.email": "your@email.com",
+  "app.email-copy": "Email address",
   "app.email.address": "Email address",
+  "app.email.address-copy": "your@email.com",
   "app.login": "Already have an account? Log in",
   "app.offers": "I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.",
   "app.password": "Password",
+  "app.password-copy": "Password",
+  "app.pwcharacter-copy": "Your chosen password must contain at least 8 characters",
   "app.pwcharacters": "Your chosen password must contain at least 8 characters",
+  "app.pwcharacters-copy": "Already have an account? Log in ",
+  "app.pwcharactersbhsgsgs-copy": "I have read and agreed to Stride’s Terms of Service and Privacy Notice",
+  "app.pwcharactersgsrg-copy": "I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.",
+  "app.pwcharactersgswr-copy": "Sign Up",
   "app.signup": "Sign Up",
+  "app.test": "test2",
   "app.username": "Username",
-  "app.test": "test2"
+  "app.username-copy": "Username"
 }

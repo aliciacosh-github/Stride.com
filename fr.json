@@ -1,0 +1,21 @@
+{
+  "app.agreement": "J'ai lu et accepté les Conditions d'utilisation et l'Avis de confidentialité de Stride",
+  "app.email": "your@email.com",
+  "app.email-copy": "Adresse e-mail",
+  "app.email.address": "Adresse e-mail",
+  "app.email.address-copy": "your@email.com",
+  "app.login": "Vous avez déjà un compte ? Connectez-vous",
+  "app.offers": "Je ne souhaite pas recevoir d'offres exclusives, de promotions, de rappels et plus concernant Nekocafé.",
+  "app.password": "Mot de passe",
+  "app.password-copy": "Mot de passe",
+  "app.pwcharacter-copy": "Le mot de passe choisi doit contenir au moins 8 caractères",
+  "app.pwcharacters": "Votre mot de passe choisi doit contenir au moins 8 caractères",
+  "app.pwcharacters-copy": "Vous avez déjà un compte ?",
+  "app.pwcharactersbhsgsgs-copy": "J’ai lu et accepté les Conditions d’utilisation et l’Avis de confidentialité de Stride",
+  "app.pwcharactersgsrg-copy": "Je ne souhaite pas recevoir d’offres exclusives, promotions, rappels et autres concernant Nekocafé.",
+  "app.pwcharactersgswr-copy": "Inscrivez-vous",
+  "app.signup": "S'inscrire",
+  "app.test": "test2",
+  "app.username": "Nom d'utilisateur",
+  "app.username-copy": "Nom d'utilisateur"
+}
